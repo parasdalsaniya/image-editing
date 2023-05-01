@@ -1,0 +1,23 @@
+h1 {
+    color: orange;
+}
+
+main {
+    /* height: 800px; */
+    padding: 0.5rem;
+    width: 800px;
+    border: 2px solid black;
+}
+
+main img {
+    /* height: 800px; */
+    width: 800px;
+    position: relative;
+}
+
+main h2 {
+    position: absolute;
+    top: 307px;
+    left: 432px;
+    color: red;
+}

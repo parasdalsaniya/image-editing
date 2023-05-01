@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+section2 {
+    padding: 2rem;
+    border: 1px solid black;
+    width: 600px;
+    height: 450px;
+}
+
+section2 .image4-img-div {
+    position: relative;
+}
+
+section2 .image4-img-div img {
+    width: 600px;
+}
+
+section2 .image4-img-div p {
+    margin: 0;
+    position: absolute;
+    top: 0;
+}
